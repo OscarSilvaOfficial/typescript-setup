@@ -1,0 +1,13 @@
+{
+  "singleQuote": true,
+  "printWidth": 130,
+  "trailingComma": "all",
+  "semi": true,
+  "tabWidth": 2,
+  "editor.formatOnSave": true,
+  "extends": ["prettier"],
+  "plugins": ["prettier"],
+  "rules": {
+    "prettier/prettier": ["error"]
+  }
+}
